@@ -1,0 +1,1 @@
+C:\Users\HP\Desktop\SDE\Coding\Rust\cargo\hello-package\target\debug\hello-package.exe: C:\Users\HP\Desktop\SDE\Coding\Rust\cargo\hello-package\src\lib.rs C:\Users\HP\Desktop\SDE\Coding\Rust\cargo\hello-package\src\main.rs

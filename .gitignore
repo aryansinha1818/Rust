@@ -1,0 +1,35 @@
+# Exclude the target directory where compiled files are stored
+/target/
+
+# Exclude Cargo lock file (Cargo.lock) for libraries, but include for binaries
+# For libraries
+# /Cargo.lock
+
+# For binaries (applications), comment the line above
+
+# Ignore all node_modules directories (if using npm/yarn)
+node_modules/
+
+# Ignore the .env file which might contain environment variables
+.env
+
+# Ignore editor-specific files
+*.swp
+*.swo
+*~
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore custom notes or documentation
+*.md
+*.txt
+*.log
+Notes/
+docs/
+
+# Ignore other files and directories that are commonly unwanted
+.idea/
+.vscode/
+*.rs.bk
